@@ -1,3 +1,5 @@
+// https://programmers.co.kr/learn/courses/30/lessons/42883
+
 class BigNumber {
     public String BigNumber(String number, int k) {
         String answer = "";
@@ -15,7 +17,6 @@ class BigNumber {
             }
         }
 
-        
         answer = made;
         return answer;
     }
