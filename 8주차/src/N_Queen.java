@@ -1,3 +1,4 @@
+//https://programmers.co.kr/learn/courses/30/lessons/12952
 
 public class N_Queen {
     public static void main(String[] args) {
