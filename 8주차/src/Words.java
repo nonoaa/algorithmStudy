@@ -1,4 +1,4 @@
-import java.util.Arrays;
+//https://programmers.co.kr/learn/courses/30/lessons/43163
 
 public class Words {
     public static void main(String[] args) {
